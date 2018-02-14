@@ -1,0 +1,38 @@
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.form-control {
+    width: 30%;
+}
+
+.btn-default {
+    width: 20%;
+    height: 20%;
+    margin-top: 20px;
+}
+
+#books-table {
+    border: 10px red solid;
+}
+
+#books-table1 {
+    border: 10px red solid;
+}
+
+#tableBooks {
+    border: 10px red solid;
+}
+
+
+#tableBooksAnthology {
+    border: 10px red solid;
+}
+#storiesAnthology {
+    border: 10px red solid;
+}
+
+#getStories{
+    display: none;
+}
